@@ -1,48 +1,67 @@
-## 👩‍💻 Sobre Mim
+<h1 align="center">Olá, eu sou a Emilly! 👋</h1>
 
-Olá! Sou a **Emilly Santos**, estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecnologia, interfaces intuitivas e boas experiências digitais.  
-Atualmente focada na área de **Desenvolvimento Front-End**, estudo todos os dias para transformar ideias em soluções reais e acessíveis.
-
-> "Cada linha de código é uma parte da minha evolução."
-
----
-
-## 🎯 Meu Foco Principal
-
-- 🚀 Atualmente estudando **HTML, CSS, JavaScript e React**
-- 💻 Criação de interfaces modernas, responsivas e com acessibilidade
-- 🛠️ Aprendendo boas práticas com **Git**, **GitHub** e organização de projetos
-- 🎨 Uso do **Figma** para prototipagem e estruturação visual
-- 🌱 Explorando **Node.js** como próximo passo
+<p align="center">
+  Apaixonada por desenvolvimento web e design! <br>
+  Explorando o universo da tecnologia com criatividade e vontade de aprender sempre. 🚀
+</p>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 📌 Sobre mim
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+- 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🌱 Atualmente estudando **JavaScript**, **DOM**, **Lógica de Programação** e **Frontend**
+- 🎯 Foco em construir projetos que **resolvam problemas reais**
+- 📚 Sempre buscando **evoluir como dev** e como pessoa
 
 ---
 
-## 📈 Estatísticas do GitHub
+### 🚀 Tecnologias e Ferramentas que uso
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonidas-alt&show_icons=true&theme=tokyonight&title_color=bb9af7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonidas-alt&layout=compact&theme=tokyonight&title_color=bb9af7&text_color=c0caf5&bg_color=1a1b26)
+<div align="center" style="display: flex; gap: 10; flex-wrap: wrap;">
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+
+</div>
 
 ---
 
-## 📬 Entre em Contato
+### 📊 Estatísticas GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emilly%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilly-santos-a52198281/)
-[![Gmail](https://img.shields.io/badge/Gmail-emysant04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emysant04@gmail.com)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonidas-alt&show_icons=true&theme=tokyonight&title_color=bb9af7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26&locale=pt-br"/>
+  <img height="180em" width="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonidas-alt&layout=compact&theme=tokyonight&title_color=bb9af7&text_color=c0caf5&bg_color=1a1b26&locale=pt-br"/>
+</div>
 
 ---
 
-⭐ *Obrigada por visitar meu perfil! Volte sempre para acompanhar minha evolução!*
+### 📁 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|------------|--------------|
+| 🎨 **Site de Pinturas** | Um site para divulgar o trabalho do meu pai com pinturas residenciais | HTML, CSS, JS |
+| 📚 **Sistema Escolar Infantil** | Projeto acadêmico para gestão escolar | Node.js, React, Figma |
+| 💡 **Portfólio Dev** *(em construção)* | Meu portfólio pessoal com foco em UI/UX | HTML, CSS, JS, GitHub Pages |
+
+---
+
+### 🌐 Onde me encontrar
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilly-santos-a52198281/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emysant04@gmail.com)
+
+</div> 
+---
+
+> 💬 *“O código é como poesia. Se não for simples e bonito, ninguém entende.”*
+
