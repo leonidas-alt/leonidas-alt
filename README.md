@@ -2,6 +2,7 @@
 
 <p align="center">
   Apaixonada por desenvolvimento web e design! <br>
+  Atualmente focada na área de Desenvolvimento Front-End, estudo todos os dias para transformar ideias em soluções reais e acessíveis. <br>
   Explorando o universo da tecnologia com criatividade e vontade de aprender sempre. 🚀
 </p>
 
@@ -10,9 +11,11 @@
 ### 📌 Sobre mim
 
 - 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🌱 Atualmente estudando **JavaScript**, **DOM**, **Lógica de Programação** e **Frontend**
-- 🎯 Foco em construir projetos que **resolvam problemas reais**
-- 📚 Sempre buscando **evoluir como dev** e como pessoa
+- 🚀 Atualmente estudando **HTML, CSS, JavaScript e React**
+- 🌱 Criação de interfaces modernas, responsivas e com acessibilidade
+- 🛠️ Aprendendo boas práticas com **Git**, **GitHub** e organização de projetos
+- 🎨 Uso do **Figma** para prototipagem e estruturação visual
+- ⭐ Explorando **Node.js** como próximo passo
 
 ---
 
@@ -61,7 +64,7 @@
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emysant04@gmail.com)
 
 </div> 
----
+
 
 > 💬 *“O código é como poesia. Se não for simples e bonito, ninguém entende.”*
 
