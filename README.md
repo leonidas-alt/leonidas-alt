@@ -40,13 +40,6 @@
 ### 📊 Estatísticas GitHub
  <br>
   <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raffa-n/raffa-n/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raffa-n/raffa-n/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raffa-n/raffa-n/output/pacman-contribution-graph.svg">
-  </picture>
-  <br>
-
   <a href="https://github.com/raffa-n">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=leonidas-alt&show_icons=true&theme=radical&hide_border=true" alt="Zeneilton's GitHub Stats" />
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonidas-alt&layout=compact&theme=radical&hide_border=true" alt="Zeneilton's Top Languages" />
