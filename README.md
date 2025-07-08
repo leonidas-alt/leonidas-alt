@@ -4,7 +4,8 @@
   </a>
   
 <p align="center">
-  Atualmente com o foco na área de Desenvolvimento Front-End, estudo todos os dias para transformar ideias em soluções reais e acessíveis. <br>
+  Atualmente com o foco na área de Desenvolvimento Front-End, Buscando o Full-stack. <br>
+  Estudo todos os dias para transformar ideias em soluções reais e acessíveis. <br>
   Explorando o universo da tecnologia com criatividade e vontade de aprender sempre. 🚀
 </p>
 </div>
