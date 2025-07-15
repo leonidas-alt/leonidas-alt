@@ -59,6 +59,16 @@
     <img height="150px" src="https://streak-stats.demolab.com?user=leonidas-alt&theme=radical&hide_border=true&locale=pt-br" alt="GitHub Streak"/>
   </a>
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonidas-alt/leonidas-alt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonidas-alt/leonidas-alt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leonidas-alt/leonidas-alt/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ### 📁 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
