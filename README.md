@@ -13,13 +13,15 @@
 
 ### 📌 Sobre mim
 
-- 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🚀 Atualmente estudando **HTML, CSS, JavaScript e React**
-- 🌱 Criação de interfaces modernas, responsivas e com acessibilidade
-- 🛠️ Aprendendo boas práticas com **Git**, **GitHub** e organização de projetos
-- 🎨 Uso do **Figma** para prototipagem e estruturação visual
-- ⭐ Explorando **Node.js** como próximo passo
-
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 📚 Conhecimento em HTML, CSS, JavaScript, React e Node.js.
+- 🧠 Foco em backend, banco de dados (MySQL/PostgreSQL) e fundamentos de cloud computing
+- 🌐 Criação de interfaces modernas, responsivas e acessíveis com foco em usabilidade
+- 🔁 Aplicando boas práticas com Git/GitHub, organização de código e versionamento semântico
+- 🎨 Uso do Figma para prototipagem e estruturação visual de projetos
+- ☁️ Explorando soluções em Oracle Cloud, AWS e APIs RESTful
+- 🚀 Em constante evolução técnica, com interesse em segurança, escalabilidade e arquitetura de sistemas
+- 🤝 Aberto a colaborar com projetos open source, acadêmicos ou freelancers
 ### 🌐 Onde me encontrar
 
 <div align="center">
