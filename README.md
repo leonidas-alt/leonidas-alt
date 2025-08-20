@@ -63,13 +63,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leonidas-alt/leonidas-alt/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-### 📁 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|------------|--------------|
-| 🎨 **Site de Pinturas** | Um site para divulgar o trabalho do meu pai com pinturas residenciais | HTML, CSS, JS |
-| 📚 **Sistema Escolar Infantil** | Projeto acadêmico para gestão escolar | Node.js, React, Figma |
-| 💡 **Portfólio Dev** *(em construção)* | Meu portfólio pessoal com foco em UI/UX | HTML, CSS, JS, GitHub Pages |
-
