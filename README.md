@@ -5,8 +5,7 @@
   
 <p align="center">
   Atualmente com o foco na área de Desenvolvimento Back-end e Front-end, Buscando o Full-stack. <br>
-  Estudo todos os dias para transformar ideias em soluções reais e acessíveis. <br>
-  Explorando o universo da tecnologia com criatividade e vontade de aprender sempre. 🚀
+  Estudo todos os dias para transformar ideias em soluções reais e acessíveis. 🚀 <br>
 </p>
 </div>
 
@@ -16,12 +15,9 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 📚 Conhecimento em HTML, CSS, JavaScript, React e Node.js.
 - 🧠 Foco em backend, banco de dados (MySQL/PostgreSQL) e fundamentos de cloud computing
-- 🌐 Criação de interfaces modernas, responsivas e acessíveis com foco em usabilidade
 - 🔁 Aplicando boas práticas com Git/GitHub, organização de código e versionamento semântico
-- 🎨 Uso do Figma para prototipagem e estruturação visual de projetos
 - ☁️ Explorando soluções em Oracle Cloud, AWS e APIs RESTful
 - 🚀 Em constante evolução técnica, com interesse em segurança, escalabilidade e arquitetura de sistemas
-- 🤝 Aberto a colaborar com projetos open source, acadêmicos ou freelancers
 ### 🌐 Onde me encontrar
 
 <div align="center">
