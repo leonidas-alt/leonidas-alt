@@ -33,7 +33,7 @@
 
 <div p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,github,obsidian,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,react,git,github,obsidian,figma" />
   </a>
 </p>
   
