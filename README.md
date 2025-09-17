@@ -46,7 +46,6 @@
   <div align="center">
   <a href="https://github.com/leonidas-alt">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=leonidas-alt&show_icons=true&theme=radical&hide_border=true&locale=pt-br" alt="Zeneilton's GitHub Stats"/>
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonidas-alt&layout=donut-vertical&theme=radical&hide_border=true&locale=pt-br" alt="Zeneilton's Top Languages"/>
     <img height="150px" src="https://streak-stats.demolab.com?user=leonidas-alt&theme=radical&hide_border=true&locale=pt-br" alt="GitHub Streak"/>
   </a>
     
