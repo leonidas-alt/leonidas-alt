@@ -4,20 +4,20 @@
   </a>
   
 <p align="center">
-  Atualmente com o foco na área de Desenvolvimento Back-end e Front-end, Buscando o Full-stack. <br>
-  Estudo todos os dias para transformar ideias em soluções reais e acessíveis. 🚀 <br>
-</p>
+    Focado em criar soluções eficientes, seguras e escaláveis no <strong>Back-end</strong><br>
+    Estudo e pratico todos os dias para transformar ideias em sistemas robustos e inteligentes. 🚀 <br>
 </div>
 
 
 ### 📌 Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 📚 Conhecimento em HTML, CSS, JavaScript, React e Node.js.
+- 📚 Conhecimento em HTML, CSS, PYTHON.
 - 🧠 Foco em backend, banco de dados (MySQL/PostgreSQL) e fundamentos de cloud computing
 - 🔁 Aplicando boas práticas com Git/GitHub, organização de código e versionamento semântico
-- ☁️ Explorando soluções em Oracle Cloud, AWS e APIs RESTful
+- ☁️ Explorando soluções em AWS e APIs RESTful
 - 🚀 Em constante evolução técnica, com interesse em segurança, escalabilidade e arquitetura de sistemas
+  
 ### 🌐 Onde me encontrar
 
 <div align="center">
@@ -33,7 +33,7 @@
 
 <div p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,git,github,obsidian,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,py,git,github" />
   </a>
 </p>
   
