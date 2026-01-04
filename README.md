@@ -1,22 +1,12 @@
-<div align="center">  
-  <a href="https://github.com/leonidas-alt">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=4B0082&text=Bem%20Vindos%20ao%20meu%20perfil!&desc=💬%20O%20código%20é%20como%20poesia.%20Se%20não%20for%20simples%20e%20bonito,%20ninguém%20entende.&fontAlign=50&fontAlignY=35&animation=twinkling&descSize=12&fontSize=43&fontColor=FFFF&reversal=false&textBg=false&descAlign=50&descAlignY=50"/>
-  </a>
-  
-<p align="center">
-    Focado em criar soluções eficientes, seguras e escaláveis no <strong>Back-end</strong><br>
-    Estudo e pratico todos os dias para transformar ideias em sistemas robustos e inteligentes. 🚀 <br>
-</div>
+👋 Olá, eu sou a Emilly!
 
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend.
 
-### 📌 Sobre mim
+Atualmente, estudo Java e fundamentos de programação, buscando entender a base por trás do código para construir aplicações bem estruturadas, seguras e escaláveis ao longo do tempo.
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 📚 Conhecimento em HTML, CSS, PYTHON.
-- 🧠 Foco em backend, banco de dados (MySQL/PostgreSQL) e fundamentos de cloud computing
-- 🔁 Aplicando boas práticas com Git/GitHub, organização de código e versionamento semântico
-- ☁️ Explorando soluções em AWS e APIs RESTful
-- 🚀 Em constante evolução técnica, com interesse em segurança, escalabilidade e arquitetura de sistemas
+Tenho como filosofia fortalecer a base antes de escalar, evoluindo de forma consistente e consciente, sem pular etapas.
+
+Acredito que aprender na prática e compartilhar conhecimento fazem parte do crescimento na tecnologia. 🚀
   
 ### 🌐 Onde me encontrar
 
@@ -33,7 +23,7 @@
 
 <div p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,py,git,github" />
   </a>
 </p>
   
