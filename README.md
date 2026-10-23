@@ -30,18 +30,15 @@ Desenvolvendo soluções, construindo APIs e explorando tecnologias em nuvem.
 
 <div align="center">
 
-### Linguagens
 <img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python, Java e JavaScript"/>
-
-### Backend & Banco de dados
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres&theme=dark" alt="FastAPI, Node.js e PostgreSQL"/>
-
-### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,terraform,git,github&theme=dark" alt="AWS, Docker, Terraform, Git e GitHub"/>
-
-### Ferramentas
-<img src="https://skillicons.dev/icons?i=vscode,linux&theme=dark" alt="VS Code e Linux"/>
-
+<img src="https://skillicons.dev/icons?i=vscode,linux&theme=dark" alt="VS Code"/>
+<img
+    src="https://kiro.dev/favicon.ico"
+    width="48"
+    alt="Kiro"
+  />
 </div>
 
 
