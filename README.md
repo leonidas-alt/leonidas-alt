@@ -1,22 +1,26 @@
-<div align="center">
-
-# Emilly Santos
+## Emilly Santos
 
 ### Backend Developer · Software Engineering Student
 
 Desenvolvendo soluções, construindo APIs e explorando tecnologias em nuvem.
-
 <br/>
 
-<a href="https://github.com/leonidas-alt">
-  <img src="https://img.shields.io/badge/GitHub-leonidas--alt-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://www.linkedin.com/in/emilly-santos-a52198281/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-2563EB?style=flat-square" alt="Focus"/>
-<img src="https://img.shields.io/badge/Status-Always%20Learning-18181B?style=flat-square" alt="Always learning"/>
+<a href="mailto:emysant04@gmail.com">
+  <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=leonidas-alt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonidas-alt&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais utilizadas"/>
 
 </div>
-
----
 
 ## Sobre mim
 
@@ -34,7 +38,6 @@ Atualmente, estou aprofundando meus conhecimentos em:
 
 Meu objetivo é transformar conhecimento em projetos práticos e evoluir continuamente como desenvolvedora.
 
----
 
 ## Stack tecnológica
 
@@ -54,7 +57,6 @@ Meu objetivo é transformar conhecimento em projetos práticos e evoluir continu
 
 </div>
 
----
 
 ## Projetos em destaque
 
@@ -84,37 +86,5 @@ Projeto acadêmico de análise e documentação de um sistema de gerenciamento e
 [Ver documentação →](https://github.com/leonidas-alt/documentacao-sistema-escolar-unifaat)
 
 ---
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=leonidas-alt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonidas-alt&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais utilizadas"/>
-
-</div>
-
----
-
-## Vamos nos conectar?
-
-Tenho interesse em aprender com outros desenvolvedores, colaborar em projetos e conhecer novas oportunidades na área de tecnologia.
-
-<div align="center">
-
-<a href="https://github.com/leonidas-alt">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/emilly-santos-a52198281/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:emysant04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
+ 
 *"Consistência, curiosidade e código: um passo de cada vez."*
-
-</div>
