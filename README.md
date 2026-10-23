@@ -15,7 +15,7 @@ Desenvolvendo soluções, construindo APIs e explorando tecnologias em nuvem.
   <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-### GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -26,7 +26,7 @@ Desenvolvendo soluções, construindo APIs e explorando tecnologias em nuvem.
 </div>
 
 
-### Stack tecnológica
+## Stack tecnológica
 
 <div align="center">
 
@@ -45,30 +45,20 @@ Desenvolvendo soluções, construindo APIs e explorando tecnologias em nuvem.
 </div>
 
 
-### Projetos em destaque
+## Projetos em destaque
 
 ### 01. ZYRON
 **Tecnologia · Soluções digitais**
-
-Projeto relacionado à minha visão de desenvolver soluções tecnológicas para negócios, com foco em sistemas e aplicações que possam resolver problemas reais.
-
-**Tecnologias:** Python
 
 [Explorar repositório →](https://github.com/leonidas-alt/ZYRON)
 
 ### 02. Sistema de Cadastro de Alunos
 **Desenvolvimento · Gestão de dados**
 
-Projeto voltado ao cadastro e à organização de informações de alunos, como parte da prática de desenvolvimento de sistemas.
-
-**Tecnologias:** Python
-
 [Explorar repositórios →](https://github.com/leonidas-alt?tab=repositories)
 
 ### 03. Sistema Escolar UniFAAT
 **Análise de sistemas · Documentação técnica**
-
-Projeto acadêmico de análise e documentação de um sistema de gerenciamento escolar infantil, contemplando requisitos, visão geral e planejamento da solução.
 
 [Ver documentação →](https://github.com/leonidas-alt/documentacao-sistema-escolar-unifaat)
 
