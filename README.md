@@ -24,19 +24,9 @@ Desenvolvendo soluções, construindo APIs e explorando tecnologias em nuvem.
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedora com foco em Backend, APIs e infraestrutura em nuvem.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em Backend, APIs e Cloud Computing.
 
-Tenho interesse em criar aplicações bem estruturadas, desenvolver soluções eficientes e compreender todo o ciclo de desenvolvimento de software, da implementação à infraestrutura.
-
-Atualmente, estou aprofundando meus conhecimentos em:
-
-- Desenvolvimento de APIs e aplicações Backend.
-- Bancos de dados relacionais e modelagem de dados.
-- Cloud Computing, com foco em AWS.
-- Containers, automação e práticas de DevOps.
-- Arquitetura de software e boas práticas de desenvolvimento.
-
-Meu objetivo é transformar conhecimento em projetos práticos e evoluir continuamente como desenvolvedora.
+Atualmente, desenvolvo minhas habilidades em Python, bancos de dados, AWS e DevOps, buscando criar soluções eficientes e evoluir por meio de projetos práticos.
 
 
 ## Stack tecnológica
