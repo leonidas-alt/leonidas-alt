@@ -33,7 +33,7 @@ Desenvolvendo soluções, construindo APIs e explorando tecnologias em nuvem.
 <img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python, Java e JavaScript"/>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres&theme=dark" alt="FastAPI, Node.js e PostgreSQL"/>
 <img src="https://skillicons.dev/icons?i=aws,docker,terraform,git,github&theme=dark" alt="AWS, Docker, Terraform, Git e GitHub"/>
-<img src="https://skillicons.dev/icons?i=vscode,linux&theme=dark" alt="VS Code"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code"/>
 <img
     src="https://kiro.dev/favicon.ico"
     width="48"
