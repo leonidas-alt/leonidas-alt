@@ -2,6 +2,9 @@
 
 ### Backend Developer · Software Engineering Student
 
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em Backend, APIs e Cloud Computing.
+Atualmente, desenvolvo minhas habilidades em Python, bancos de dados, AWS e DevOps, buscando criar soluções eficientes e evoluir por meio de projetos práticos.
+
 Desenvolvendo soluções, construindo APIs e explorando tecnologias em nuvem.
 <br/>
 
@@ -21,12 +24,6 @@ Desenvolvendo soluções, construindo APIs e explorando tecnologias em nuvem.
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonidas-alt&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais utilizadas"/>
 
 </div>
-
-### Sobre mim
-
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em Backend, APIs e Cloud Computing.
-
-Atualmente, desenvolvo minhas habilidades em Python, bancos de dados, AWS e DevOps, buscando criar soluções eficientes e evoluir por meio de projetos práticos.
 
 
 ### Stack tecnológica
