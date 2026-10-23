@@ -12,7 +12,7 @@ Desenvolvendo soluções, construindo APIs e explorando tecnologias em nuvem.
   <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-## GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
@@ -22,15 +22,14 @@ Desenvolvendo soluções, construindo APIs e explorando tecnologias em nuvem.
 
 </div>
 
-## Sobre mim
+### Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em Backend, APIs e Cloud Computing.
 
 Atualmente, desenvolvo minhas habilidades em Python, bancos de dados, AWS e DevOps, buscando criar soluções eficientes e evoluir por meio de projetos práticos.
 
----
 
-## Stack tecnológica
+### Stack tecnológica
 
 <div align="center">
 
@@ -49,7 +48,7 @@ Atualmente, desenvolvo minhas habilidades em Python, bancos de dados, AWS e DevO
 </div>
 
 
-## Projetos em destaque
+### Projetos em destaque
 
 ### 01. ZYRON
 **Tecnologia · Soluções digitais**
