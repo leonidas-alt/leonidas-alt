@@ -1,6 +1,4 @@
-## Emilly Santos
-
-### Backend Developer · Software Engineering Student
+## Backend Developer · Software Engineering Student
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em Backend, APIs e Cloud Computing.
 Atualmente, desenvolvo minhas habilidades em Python, bancos de dados, AWS e DevOps, buscando criar soluções eficientes e evoluir por meio de projetos práticos.
@@ -41,24 +39,7 @@ Desenvolvendo soluções, construindo APIs e explorando tecnologias em nuvem.
   />
 </div>
 
-
-## Projetos em destaque
-
-### 01. ZYRON
-**Tecnologia · Soluções digitais**
-
-[Explorar repositório →](https://github.com/leonidas-alt/ZYRON)
-
-### 02. Sistema de Cadastro de Alunos
-**Desenvolvimento · Gestão de dados**
-
-[Explorar repositórios →](https://github.com/leonidas-alt?tab=repositories)
-
-### 03. Sistema Escolar UniFAAT
-**Análise de sistemas · Documentação técnica**
-
-[Ver documentação →](https://github.com/leonidas-alt/documentacao-sistema-escolar-unifaat)
-
 ---
- 
+<div align="center">
 *"Consistência, curiosidade e código: um passo de cada vez."*
+</div>
