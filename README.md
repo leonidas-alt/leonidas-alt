@@ -28,6 +28,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em Backe
 
 Atualmente, desenvolvo minhas habilidades em Python, bancos de dados, AWS e DevOps, buscando criar soluções eficientes e evoluir por meio de projetos práticos.
 
+---
 
 ## Stack tecnológica
 
